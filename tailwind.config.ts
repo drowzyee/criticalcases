@@ -20,6 +20,7 @@ const config = {
     extend: {
       colors: {
         rose: "#e11d48",
+        "rose-950": "#4c0519",
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
