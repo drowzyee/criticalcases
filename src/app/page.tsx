@@ -25,7 +25,7 @@ export default function Home() {
               <p className="mt-8 text-lg lg:pr-10 max-w-prose text-center lg:text-left text-balance md:text-wrap">
                 Capture your favorite memories with your own,{" "}
                 <span className="font-semibold">one-of-one</span> phone case.
-                CriticalCases allows you to capture and protect your critical
+                criticalcases allows you to capture and protect your critical
                 memories, not just your phone.
               </p>
 
