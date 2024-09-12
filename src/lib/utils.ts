@@ -24,7 +24,7 @@ export function constructMetadata({
   title?: string;
   description?: string;
   image?: string;
-  icon?: string;
+  icons?: string;
 } = {}): Metadata {
   return {
     title,
@@ -42,5 +42,6 @@ export function constructMetadata({
       creator: "@drowzyee",
     },
     icons,
+    metadataBase: new URL("https://criticalcases.vercel.app"),
   };
 }
